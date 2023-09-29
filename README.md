@@ -14,6 +14,7 @@ Tech Stack used is
 - IsFresher: True
 ---
   Contributions <br>
+  <br>
 -HTML,CSS   :  Ayushi <br>
 -JavaScript : Vedant and Ajay <br>
 -SupaBase   : Vedant and Ajay <br>
