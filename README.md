@@ -13,7 +13,10 @@ Tech Stack used is
 - Team Name : Debuggers
 - IsFresher: True
 ---
-
+  Contributions
+-HTML,CSS   Ayushi
+-JavaScript   Vedant and Ajay
+-SupaBase     Vedant and Ajay
 IDEA BEHIND THE APPLICATION
 To bring all the different software used by a college to a single place. It assists all the working staff and student to manage their work easily.
 
