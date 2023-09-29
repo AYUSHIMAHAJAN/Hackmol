@@ -14,9 +14,10 @@ Tech Stack used is
 - IsFresher: True
 ---
   Contributions
--HTML,CSS   Ayushi
--JavaScript   Vedant and Ajay
--SupaBase     Vedant and Ajay
+-HTML,CSS   :  Ayushi <br>
+-JavaScript : Vedant and Ajay <br>
+-SupaBase   : Vedant and Ajay <br>
+<br>
 IDEA BEHIND THE APPLICATION
 To bring all the different software used by a college to a single place. It assists all the working staff and student to manage their work easily.
 
