@@ -15,7 +15,7 @@ Tech Stack used is
 ---
   Contributions <br>
   <br>
--HTML,CSS   :  Ayushi <br>
+-HTML,CSS   :  Ayushi,Kirtan,Ayushi Yadav <br>
 -JavaScript : Vedant and Ajay <br>
 -SupaBase   : Vedant and Ajay <br>
 <br>
