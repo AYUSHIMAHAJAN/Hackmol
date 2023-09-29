@@ -13,7 +13,7 @@ Tech Stack used is
 - Team Name : Debuggers
 - IsFresher: True
 ---
-  Contributions
+  Contributions <br>
 -HTML,CSS   :  Ayushi <br>
 -JavaScript : Vedant and Ajay <br>
 -SupaBase   : Vedant and Ajay <br>
