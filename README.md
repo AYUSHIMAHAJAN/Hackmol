@@ -15,9 +15,8 @@ Tech Stack used is
 ---
   Contributions <br>
   <br>
--HTML,CSS   :  Ayushi,Kirtan,Ayushi Yadav <br>
--JavaScript : Vedant and Ajay <br>
--SupaBase   : Vedant and Ajay <br>
+-HTML,CSS,JavaScript:  Ayushi,Kirtan,Ayushi Yadav <br>
+-SupaBase : Vedant and Ajay <br>
 <br>
 IDEA BEHIND THE APPLICATION
 To bring all the different software used by a college to a single place. It assists all the working staff and student to manage their work easily.
